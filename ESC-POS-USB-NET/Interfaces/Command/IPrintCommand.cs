@@ -18,5 +18,6 @@
         byte[] Separator(char speratorChar = '-');
         byte[] AutoTest();
     }
+  
 }
 
